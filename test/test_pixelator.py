@@ -1,11 +1,7 @@
-import unittest
 import cv2
 import os
-import numpy
 import sys
-import json
-import mock
-import time
+import unittest
 
 from mock import MagicMock
 
